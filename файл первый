@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<script>
+"use strict";
+
+const numberOfFims = +prompt ('Skolko filmov vy uje posmotreli?', '');
+
+const personalMovieDb = {
+  const: personalMovieDb,
+  movies: {},
+  actors: {},
+  genres: [],
+  privat: false
+};
+
+const a = prompt ('Odin iz prosmotrennyh vami filmov?', ''),
+      b = prompt ('Na skolko ocenite ego', ''),
+      c = prompt ('Odin iz prosmotrennyh vami filmov?', ''),
+      d = prompt ('Na skolko ocenite ego', '');
+
+      personalMovieDb.movies[a] = b;
+      personalMovieDb.movies[c] = d;
+
+      console.log(personalMovieDb);
+</script>
